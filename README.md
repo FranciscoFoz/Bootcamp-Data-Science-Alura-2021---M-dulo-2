@@ -148,7 +148,7 @@ Diante dos boletins lidos inicialmente, boletins de anos anteriores e das inform
 
 *   Deduzo que os municípios com baixa cobertura vacinal em 2021 não são os que foram afetados em 2020.
 
-### Consifderações Finais
+### Considerações Finais
 
 Foi possível averiguar que os dados de cobertura vacinal em estados onde foram afetados em 2020 e 2021 estão menores em 2021.
 
